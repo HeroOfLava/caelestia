@@ -54,6 +54,9 @@ return {
     cursorSize                 = 24,
     sleepGestureCmd            = "systemctl suspend-then-hibernate",
 
+    -- Workspaces
+    wsGroupSize                = 10,
+    
     ------------------
     ---- KEYBINDS ----
     ------------------
